@@ -82,6 +82,7 @@
     "dsmcc_type": 3,
     "message_id": 4102,
     "protocol_discriminator": 17,
+    "table_id_extension": 0,
     "transaction_id": 2147483648,
     "version": 0
   },
@@ -166,6 +167,7 @@
     "dsmcc_type": 3,
     "message_id": 4098,
     "protocol_discriminator": 17,
+    "table_id_extension": 3,
     "transaction_id": 2843541507,
     "version": 29
   },

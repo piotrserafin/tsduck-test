@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tsduck>
-  <DSMCC_user_to_network_message version="0" current="true" protocol_discriminator="0x11" dsmcc_type="0x03" message_id="0x1006" transaction_id="0x80000000">
+  <DSMCC_user_to_network_message version="0" current="true" table_id_extension="0x0000" protocol_discriminator="0x11" dsmcc_type="0x03" message_id="0x1006" transaction_id="0x80000000">
     <metadata PID="1,898"/>
     <DSI>
       <server_id>
@@ -30,7 +30,7 @@
       </IOR>
     </DSI>
   </DSMCC_user_to_network_message>
-  <DSMCC_user_to_network_message version="29" current="true" protocol_discriminator="0x11" dsmcc_type="0x03" message_id="0x1002" transaction_id="0xA97D0003">
+  <DSMCC_user_to_network_message version="29" current="true" table_id_extension="0x0003" protocol_discriminator="0x11" dsmcc_type="0x03" message_id="0x1002" transaction_id="0xA97D0003">
     <metadata PID="1,898"/>
     <DII download_id="0x0000000A" block_size="0x0FE2">
       <module module_id="0x0001" module_size="0x00000085" module_version="0x7D" module_timeout="0x03938700" block_timeout="0x03938700" min_block_time="0x00000000">
